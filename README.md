@@ -1,1 +1,1 @@
-# MyResume A simple resume using HTML and CSS
+# MyResumeA simple resume using HTML and CSS
